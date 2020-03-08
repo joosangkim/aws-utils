@@ -1,0 +1,6 @@
+ec2:
+  - name: instnace1
+    id: i-1234567890abcdefg
+profile:
+  - name: default
+  - name: prof1
